@@ -4,6 +4,7 @@
 ##### Possui setup: Sim
 ##### Plataforma: Windows
 ##### Data de lançamento: 2010
+##### Ambiente de desenvolvimento: Visual Stúdio >= 2013 (com [VSI bundle](https://www.google.com.br/search?q=VSI_bundle&oq=VSI_bundle) instalado).
 
 --
 
