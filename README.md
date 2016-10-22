@@ -1,6 +1,9 @@
 # Contador-Infolite
 ##### Status: CONLUÍDO
-##### Texcnologias: WPF, VB.NET, Access, porta serial
+##### Texcnologias: WPF, VB.NET, .NET FRAMEWORK 4 CP, Access, porta serial
+##### Possui setup: Sim
+##### Plataforma: Windows
+##### Data de lançamento: 2010
 
 --
 
