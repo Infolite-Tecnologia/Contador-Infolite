@@ -17,4 +17,4 @@
 - Sua interface visual é de aparência agradável e de fácil manuseio.
 
 -
-![N|Solid](https://raw.githubusercontent.com/dn32/Contador-Infolite/master/x_Documanta%C3%A7%C3%A3o/images/visaoGeral.png?token=ALdMUsza_PDKe4tkoWAs80YdzWUVhY8xks5YFK5DwA%3D%3D)
+![N|Solid](https://github.com/dn32/Contador-Infolite/blob/master/x_Documanta%C3%A7%C3%A3o/images/visaoGeral.png)
