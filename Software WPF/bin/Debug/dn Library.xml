@@ -1,0 +1,421 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dnLibrary
+</name>
+</assembly>
+<members>
+<member name="P:dn_Library.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:dn_Library.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:dn_Library.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:dn_Library.dn.listarPortasSeriais(System.Boolean,System.Collections.ArrayList@,System.String@)">
+	<summary>
+ Lista as portas serial existentes no computador e o estado atual delas
+ </summary>
+	<param name="checarSeEstaEmUso">
+ Verifica o estado de cada uma das portas
+ </param>
+	<param name="listaPortaLivre">
+ Informe uma variável do tipo ArrayList para que sejam armazenados nela os status das portas serial listadas (True = Livre, False = Em uso)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+  Retorna um ArrayList com o nome das portas serial existentes no computador
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.lerArquivoTexto(System.String,System.Collections.ArrayList@,System.Text.Encoding,System.String@)">
+	<summary>
+ Le um arquivo de Texto para uma lista de linhas no formato ArrayList
+ </summary>
+	<param name="endereco">
+ Endereço físico de localização do arquivo de texto a ser lido
+ </param>
+	<param name="linhas">
+ Informe uma variável do tipo ArrayList para armazenar todas as linhas lidas do aquivo de texto
+ </param>
+	<param name="encoding">
+ -OPCIONAL- Informe o Tipo de codificação do arquivo a ser lido (default = System.Text.Encoding.Default)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna um ArrayList com a lista de todas as linhas lidas do aquivo de texto
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.lerArquivoTexto(System.String,System.String@,System.Text.Encoding,System.String@)">
+	<summary>
+  Le um arquivo de Texto para uma string
+ </summary>
+	<param name="endereco">
+  Endereço físico de localização do arquivo de texto a ser lido
+ </param>
+	<param name="texto">
+ Informe uma variável do tipo string para armazenar o texto lido do arquivo
+ </param>
+	<param name="encoding">
+ -OPCIONAL- Informe o Tipo de codificação do arquivo a ser lido (default = System.Text.Encoding.Default)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna uma string com todo o texto lido do arquivo
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.listarArquivos(System.String,System.Boolean,System.Boolean,System.String@)">
+	<summary>
+ Lista todos os arquivos de um diretório e de seus subdiretórios se assim solicitado
+ </summary>
+	<param name="diretorioRaiz">
+ Diretório raiz a ser listado
+ </param>
+	<param name="listarNosSubdiretorios">
+ -OPCIONAL- Permite listar arquivos dos subdiretórios (Default = true)
+ </param>
+	<param name="listarPastas">
+ -OPCIONAL- Permite listar também as pastas (Default = true)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.formatarEmTamanhoDados(System.Int64)">
+	<summary>
+ Formata um valor numérico em bytes para uma string na unidade mais conveniente
+ </summary>
+	<param name="tamanho">
+ Tamanho em bytes
+ </param>
+	<returns>
+ Retorna uma string com o valor formatado em KB, MB, ou GB
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.converterHexParaBytes(System.String,System.String@)">
+	<summary>
+ Converte Hexadecimal em um Array de Bytes
+ </summary>
+	<param name="valor">
+ Valor em Exadecimal a ser convertido
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna um Array de Bytes referente à conversão
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.converterInteiroEmBytes(System.Int32,System.String@)">
+	<summary>
+ Converte Inteiro em Bytes
+ </summary>
+	<param name="valor">
+ Valor a ser convertido
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna um Array de bytes referente à conversão (Em caso de erro retorna Nothing)
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.converterDecimalParaExadecimal(System.Int32,System.String@)">
+	<summary>
+ Converte um valor decimal para exadecimal
+ </summary>
+	<param name="numeroDecimal">
+ Informe o valor decimal a ser convertido
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna o valor em Exadecimal ou -1 caso ocorra erro
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.converterExadecimalParaDecimal(System.String,System.String@)">
+	<summary>
+ Converte um valor Exadecimal para decimal
+ </summary>
+	<param name="valorExadecimal">
+ Valor Exadecimal a ser convertido
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna o Valor decimal convertido (Em caso de erro, retorna -1)
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.converteStringParaInteiro(System.String,System.String@)">
+	<summary>
+ Converte String para Inteiro
+ </summary>
+	<param name="valor">
+ Valor String a ser convertido
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna o valor inteiro convertido (Em caso de erro retorna -1)
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.pause(System.Int32)">
+	<summary>
+ Efetua uma pausa
+ </summary>
+	<param name="Milesegundos">
+ Tempo da Pausa em milessegundos
+ </param>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.somenteNumeros(System.String,System.Boolean)">
+	<summary>
+ Verifica se uma string é contida apenas por números
+ </summary>
+	<param name="valor">
+ String a ser analizádas
+ </param>
+	<param name="beepCasoFalso">
+ -OPCIONAL- Solicita que o windows emita um sinal de erro se a String não for contida apenas por números
+ </param>
+	<returns>
+ Retorna True caso só existam números na String, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.validaCPF(System.String,System.Boolean)">
+	<summary>
+ Valida um CPF
+ </summary>
+	<param name="CPF">
+ Valor do CPF a ser verificado (Uso de "." e "-" é liberado)
+ </param>
+	<param name="beepCasoFalso">
+ -OPCIONAL- Solicita que o windows emita um sinal de erro caso o CPF seja inválido
+ </param>
+	<returns>
+ Retorna True caso o CPF seja válido, ou False caso o CPF seja inválido
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.validarEmail(System.String,System.Boolean)">
+	<summary>
+ Valida um e-mail
+ </summary>
+	<param name="emailAddress">
+ E-mail a ser validado
+ </param>
+	<param name="beepCasoFalso">
+ -OPCIONAL- Solicita que o windows emita um sinal de erro se o e-mail for inválido
+ </param>
+	<returns>
+ Retorna True caso o e-mail seja válido, ou False caso o E-mail seja invalido
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.buscarString(System.String,System.String)">
+	<summary>
+ Busca por uma string dentro de outra string
+ </summary>
+	<param name="texto">
+ String na qual será feita a busca
+ </param>
+	<param name="itemDaBusca">
+ String qual será buscada
+ </param>
+	<returns>
+ Retorna a posição da primeira ocorrencia da string de busca na strig de texto (caso não encontre nem uma ocorrencia, retorna 0)
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.Dados.select_(System.String@,dn_Library.dn.Dados.Credenciais@,System.Data.DataTable@,System.String@)">
+	<summary>
+ Efetua uma consulta no banco de dados
+ </summary>
+	<param name="comando">
+ String de consulta
+ </param>
+	<param name="credenciaisLocal">
+ Dados credenciais (localização do banco de dados, usuário, senha, etc)
+ </param>
+	<param name="tabela">
+ Informe uma variável do tipo DateTable para receber os dados da cunsulta
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna True caso a consulta tenha sido bem sucedida, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.Dados.executar(System.String@,dn_Library.dn.Dados.Credenciais@,System.String@)">
+	<summary>
+ Permite executar um comando no banco de dados como por exemplo: INSERT, DELETE, UPDATE
+ </summary>
+	<param name="comando">
+ Comando a ser executado
+ </param>
+	<param name="credenciaisLocal">
+ Dados credenciais (localização do banco de dados, usuário, senha, etc)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna True caso a operação tenha sido bem sucedida, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.Dados.Credenciais.#ctor(System.String,System.String,System.String,System.String)">
+	<summary>
+ Cria uma nova credencial de acesso ao banco de dados MySql
+ </summary>
+	<param name="usuario">
+ Nome do usuário de acesso
+ </param>
+	<param name="senha">
+ Senha de acesso
+ </param>
+	<param name="nomeBD">
+ Nome do banco de dados
+ </param>
+	<param name="servidor">
+ Endereço do Servidor - ex1: www.dn32.com.br, ex2: 192.162.0.1
+ </param>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.Dados.Credenciais.#ctor(System.String,System.String)">
+	<summary>
+ Criar uma nova credencial de acesso ao ACCESS
+ </summary>
+	<param name="endAccess">
+ Endereço físico de localização do arquivo Access
+ </param>
+	<param name="versaoAccess">
+ Versão do Access (0 = Access 2000, 3 = Access 2002/2003, 7 = 2007)
+ </param>
+	<remarks></remarks>
+</member><member name="T:dn_Library.dn.Dados">
+	<summary>
+ Efetua Conexões com bancos de dados ACCESS e MYSQL permitindo fazer consultas e executar comandos como DELETE, UPDATE, ETC.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.RegistroDoWindows.#ctor(System.String,Microsoft.Win32.RegistryKey)">
+	<summary>
+ Permite armazenar/recuperar informações dentro do registro do Windows
+ </summary>
+	<param name="chaveDoPrograma">
+ -OPCIONAL- Local no registro onde serão armazenadas as informações (Chave filho) (Default = "Software\dn")
+ </param>
+	<param name="chaveRootDeRegistro">
+ -OPCIONAL- Chave pai que contém as chaves onde serão armazenadas as informações (Default = Registry.CurrentUser) 
+ </param>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.RegistroDoWindows.escrever(System.String,System.String,System.String@)">
+	<summary>
+ Permite armazenar Informações dentro do registro do windows
+ </summary>
+	<param name="variavel">
+ Nome da variável qual deseja armazenar a informação
+ </param>
+	<param name="valor">
+ Valor qual deseja armazenar</param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna True caso a operação seja bem sucedida, ou False caso contratio
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.RegistroDoWindows.ler(System.String,System.String@)">
+	<summary>
+ Permite recuperar informações do registro do windows
+ </summary>
+	<param name="variavel">
+ Nome da variável na qual a informação desejada se encontra
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna o valor da variável solicitada.
+ Caso a variável não seja encontrada, retorna vazio (para debug verifique a variável "resultado")
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.registrarMenuContextoWindowsArquivos(System.String,System.String,System.String,System.String@)">
+	<summary>
+ Cria um menu de contexto para arquivos no windows. 
+ Ao clicar com o botão direito do mouse sobre um arquivo no windows,
+ no menu de contexto que aparecerá, terá o item criado aqui
+ </summary>
+	<param name="nomeMenu">
+ Nome que será mostrado no menu
+ </param>
+	<param name="programaAExecutar">
+ Endereço do programa que será chamado ao clicar no menu
+ </param>
+	<param name="parametros">
+ -OPCIONAL- Parâmetro que será passado ao programa ao clicar no menu (Por padrão, o parâmetro "%L" indica que será enviado ao programa o endereço do arquivo de onde o menu se originou)
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna True caso o registro seja bem sucedido, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.httpPost(System.String,System.String,System.String@,System.String@)">
+	<summary>
+ Envia um valor a um site via http usando o método POST
+ </summary>
+	<param name="endereco">
+ Endereço do Site
+ </param>
+	<param name="parametros">
+ -OPCIONAL- Parametros que se deseja enviar ao site
+ </param>
+	<param name="retorno">
+ -OPCIONAL- Informe uma variável do tipo String, onde será armazenado o valor recebido do site
+ </param>
+	<param name="resultado">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+ </param>
+	<returns>
+ Retorna True se o envio for bem sucedido, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="M:dn_Library.dn.lerParametrosDeInicializacao">
+	<summary>
+ Le apenas o parametro de indice 1 de inicializção
+ </summary>
+	<returns>
+ Retorna o parametro lido, ou Nothing em caso de vazio
+ </returns>
+	<remarks>
+	</remarks>
+</member><member name="M:dn_Library.dn.lerParametrosDeInicializacao(System.Collections.ArrayList@)">
+	<summary>
+ Le todos os parâmetros de inicialização e os entrega em uma variável do tipo ArrayList
+ </summary>
+	<param name="parametros">
+ Informe a variável para que sejam armazenados os parâmetros lidos
+ </param>
+	<returns>
+ Retorna True caso a leitura seja bem sucedida, ou False caso contrario
+ </returns>
+	<remarks></remarks>
+</member><member name="T:dn_Library.dn">
+ -OPCIONAL- Retorno da rotina (notifica erros, etc) Informe uma variável para que nessa sejam armazenadas as informações.
+
+</member>
+</members>
+</doc>

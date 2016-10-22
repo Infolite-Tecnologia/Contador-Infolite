@@ -1,0 +1,138 @@
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Avalon.baml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\AvalonStyle.baml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador.baml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\MainWindow.baml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\AvalonStyle.g.vb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador.g.vb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\MainWindow.g.vb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Application.g.vb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador Infolite_MarkupCompile.cache
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador Infolite.exe
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador Infolite.xml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador Infolite.pdb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\bin\Debug\Contador Infolite.exe
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\bin\Debug\Contador Infolite.pdb
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\bin\Debug\Contador Infolite.xml
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador Infolite.g.resources
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\Contador_Infolite.Resources.resources
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Users\Marcelo\AppData\Local\Temporary Projects\Contador Infolite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.exe
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.xml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.pdb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.exe
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.pdb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.xml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Tema.baml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\AvalonStyle.baml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador.baml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\MainWindow.baml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\AvalonStyle.g.vb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador.g.vb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\MainWindow.g.vb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Application.g.vb
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite_MarkupCompile.cache
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.g.resources
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador_Infolite.Resources.resources
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\UserControl1.baml
+F:\projetos Fechados\VB Somente\Contador Infolite\Contador Infolite\obj\x86\Debug\UserControl1.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.exe
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.exe
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\Contador Infolite.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Tema.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\AvalonStyle.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\MainWindow.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\UserControl1.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\AvalonStyle.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\MainWindow.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\UserControl1.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Application.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite_MarkupCompile.cache
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador Infolite.g.resources
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Contador_Infolite.Resources.resources
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\dn Library.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\zSistem.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\MySql.Data.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\dn Library.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\bin\Debug\dn Library.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\img\Remover.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\img\Remover.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Sobre.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\obj\x86\Debug\Sobre.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.exe
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\Contador Infolite.exe
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\Contador Infolite.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\Contador Infolite.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\img\Remover.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Sobre.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Tema.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\AvalonStyle.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\MainWindow.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\img\Remover.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Sobre.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\AvalonStyle.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\MainWindow.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Application.g.vb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite_MarkupCompile.cache
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.g.resources
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador_Infolite.Resources.resources
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Shared.baml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\Contador Infolite.exe.config
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\dn Library.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\zSistem.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\MySql.Data.dll
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\dn Library.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Software WPF\bin\Debug\dn Library.xml
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Assembly's\Contador Infolite.exe.config
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Assembly's\Contador Infolite.exe
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Assembly's\Contador Infolite.pdb
+F:\Projeto em Andamento\Contador Infolite\Contador Infolite\Assembly's\Contador Infolite.xml
+F:\projetos Fechados\Contador Infolite\Contador Infolite\Assembly's\Contador Infolite.exe.config
+F:\projetos Fechados\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.exe
+F:\projetos Fechados\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.xml
+F:\projetos Fechados\Contador Infolite\Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.pdb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Assembly's\Contador Infolite.exe.config
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.exe
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.xml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.pdb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Assembly's\Contador Infolite.exe
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Assembly's\Contador Infolite.pdb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Assembly's\Contador Infolite.xml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\img\Remover.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Shared.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Sobre.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Tema.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\AvalonStyle.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\MainWindow.baml
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\img\Remover.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Sobre.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\AvalonStyle.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\MainWindow.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Application.g.vb
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite_MarkupCompile.cache
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador Infolite.g.resources
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\Contador_Infolite.Resources.resources
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\projetos Fechados\Contador Infolite\pr Contador Infolite\Software WPF\obj\x86\Debug\GenerateResource.write.1.tlog
