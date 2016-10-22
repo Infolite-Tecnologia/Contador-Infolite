@@ -1,6 +1,6 @@
 # Contador-Infolite
 ##### Status: CONLUÍDO
-##### Texcnologia WPF, VB.NET, Access
+##### Texcnologias: WPF, VB.NET, Access, porta serial
 
 --
 
